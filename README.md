@@ -3,8 +3,9 @@
 
 ## Содержание
 ### Теория
-1. [JavaScript](/src/javascriptTeory.md) 
-2. [React](/src/reactTeory.md)
+1. [JavaScript](/src/theory/javascriptTheory.md) 
+2. [React](/src/theory/reactTheory.md)
 
 ### Задачи
-1. [EventLoop]( /src/eventLoop.md) 
+1. [JavaScript]( /src/tasks/javaScript.md) 
+2. [EventLoop]( /src/tasks/eventLoop.md) 
