@@ -85,7 +85,7 @@ Promise.resolve().then(() => {
     console.log(1)
 })
 
-setTimeout(() => console.log(2), 2)
+setTimeout(() => console.log(2), 200)
 
 new Promise(() => {
     console.log(3)
@@ -105,7 +105,7 @@ Promise.resolve().then(() => {
 
 setTimeout(() => {
     console.log(8)
-}, 1)
+}, 100)
 
 console.log(9)
 ```
@@ -118,9 +118,9 @@ console.log(9)
 9
 1
 7
-2
-8
 6
+8
+2
 ```
 </details>
 
